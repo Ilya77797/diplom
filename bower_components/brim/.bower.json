@@ -1,0 +1,30 @@
+{
+  "name": "brim",
+  "description": "View (minimal-ui) manager for iOS 8.",
+  "version": "1.0.13",
+  "keywords": [
+    "minimal-ui",
+    "ios",
+    "fullscreen",
+    "mobile",
+    "viewport"
+  ],
+  "license": "BSD-3-Clause",
+  "authors": [
+    "Gajus Kuizinas <gk@anuary.com>"
+  ],
+  "dependencies": {
+    "scream": "~2.0.7"
+  },
+  "homepage": "https://github.com/gajus/brim",
+  "_release": "1.0.13",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.13",
+    "commit": "4bc4a5118ad65a0756ad3ff4b28b0e37dbca719d"
+  },
+  "_source": "https://github.com/gajus/brim.git",
+  "_target": "^1.0.13",
+  "_originalSource": "brim",
+  "_direct": true
+}
